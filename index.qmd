@@ -1,5 +1,5 @@
 ---
-title: Dominic A. Pearce
+title: Katharine Eloise Ross
 about:
   id: hero-heading
   template: trestles
