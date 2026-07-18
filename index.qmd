@@ -1,5 +1,5 @@
 ---
-title: Katharine Eloise Ross
+title: Katharine Eloise Ross RVN
 about:
   id: hero-heading
   template: trestles
